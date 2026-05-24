@@ -64,11 +64,6 @@ Funksionet kryesore të redesign-it:
 
 ## Figma Artifacts
 
-### Final Project and Prototype
-
-**Figma — Project Preview:**  
-[Open Figma Project Preview](https://www.figma.com/make/UX4SY0kYT3U28hiJwW9zXV/Generate-file-preview?t=ammlQDLC3jRdnv7Y-1)
-
 **Poster Concept / Prototype:**  
 [Open Poster Concept](https://www.figma.com/design/bxvmpWsTJPyqb3RekZcsbR/Koncept-i-Posterit?t=ammlQDLC3jRdnv7Y-1)
 
